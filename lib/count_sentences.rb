@@ -31,4 +31,3 @@ class String
     self.split(/[.?!]+/).count
   end
 end
-© 2020 GitHub, Inc.
